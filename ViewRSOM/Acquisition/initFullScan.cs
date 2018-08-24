@@ -15,6 +15,8 @@ namespace ViewRSOM.Acquisition
     class initFullScan
     {
         // changes 
+        // new changes
+        // new changes 2
 
         public void start(string comment, Hardware.LaserSW.ViewModelBrightSolutions ondaLaser, Button cancelAcq_Button)
         {            
